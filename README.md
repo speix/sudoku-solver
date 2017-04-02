@@ -1,4 +1,4 @@
-# sudoku
+# Sudoku solver (CSP approach)
 A.I - Implemented AC3, Backtracking and Forward Checking algorithms in combination with Most Constrained Variable (a.k.a MRV) and Least Constraining Value (a.k.a LCV) heuristics. 
 
 In fact, the above algorithms and heuristics are essential when it comes το solving any Constraint Satisfaction problem (a.k.a CSPs). 
