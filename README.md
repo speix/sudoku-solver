@@ -10,7 +10,7 @@ The script prints the board to output.txt
 ```
 AC3 (Reduces the domain for each variable based on constraints (arcs) without breaking the consistency)
 Backtracking (In a nutshell its a Depth-First Search with the ability to move backwards when there is no solution)
-Forward Checking (Eliminate, in advance, the possibilities that do not match the constraints from the domains of unassigned variables)
+Forward Checking (Eliminate the possibilities that do not match the constraints from the domains of unassigned variables)
 MRV (Choose the variable with the fewest legal moves)
 LCV (Choose the value that rules out the fewest values in the remaining variables)
 ```
