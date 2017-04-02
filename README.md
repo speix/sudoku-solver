@@ -8,10 +8,11 @@ The script prints the board to output.txt
 
 ### Algorithms
 ```
-AC3 (Arc Consistency)
+AC3 (Reduces the domain for each variable based on constraints (arcs) without breaking the consistency)
 Backtracking (In a nutshell its a Depth-First Search algorithm with the ability to move backwards when there is no solution)
-Forward Checking (A-Star Search)
-ida (Iterative-Deepening-ΑStar Search)
+Forward Checking (Eliminate, in advance, the possibilities that do not match the constraints from the domains of unassigned variables)
+MRV (Chooses the variable with the fewest legal moves)
+LCV (Choose the value that rules out the fewest values in the remaining variables)
 ```
 ### Usage
 ```
