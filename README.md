@@ -1,5 +1,9 @@
 # sudoku
-A.I - Implemented AC3, Backtracking and Forward Checking algorithms in combination with Most Constrained Variable (a.k.a MRV) and Least Constraining Value (a.k.a LCV) heuristics. In fact, the above algorithms and heuristics are essential when it comes on solving any Constraint Satisfaction problem (a.k.a CSPs). Performance-wise, the solver was able to solve 400 sudoku boards in approx. 40 seconds.  The script prints the solved board to output.txt
+A.I - Implemented AC3, Backtracking and Forward Checking algorithms in combination with Most Constrained Variable (a.k.a MRV) and Least Constraining Value (a.k.a LCV) heuristics. 
+
+In fact, the above algorithms and heuristics are essential when it comes το solving any Constraint Satisfaction problem (a.k.a CSPs). 
+Performance-wise, the solver was able to solve 400 sudoku boards in approx. 40 seconds.  
+The script prints the board to output.txt
 
 
 ### Algorithms
