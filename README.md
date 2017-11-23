@@ -19,4 +19,4 @@ LCV (Choose the value that rules out the fewest values in the remaining variable
 python driver.py 000530000005000600000190503000004000000000164100370800008000040010000008004700921
 ```
 ### Results
-![alt tag](http://www.supergramm.com/media/images/github/sudokuresults.jpg)
+![alt tag](https://d36vhvif6yp6yo.cloudfront.net/main/images/github/sudokuresults.jpg)
